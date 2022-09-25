@@ -28,10 +28,23 @@ nav a {
     text-transform: uppercase;
     color: #fff;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 15px;
     text-decoration: none;
     
 }
+
+form label{
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 0 10px;
+}
+
+form input{
+    display: block;
+    margin: 0 0 20px;
+}
+
+
 
 nav a:hover {
     color: gray;
@@ -139,4 +152,18 @@ form label{
 form input{
     display: block;
     margin: 0 0 20px;
+}
+
+.barra_pesquisa{
+    display: block;
+    font-size: 15pxpx;
+    margin: 0 0 10px;
+    color: #FFF;
+}
+
+.barra_input{
+    display: block;
+    font-size: 20px;
+    margin-top: 20px;
+    margin: 0 0 10px;
 }
