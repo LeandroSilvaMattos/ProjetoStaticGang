@@ -181,4 +181,7 @@ form label, form legend{
 
 .barra_pesquisa:hover{
     border-color: dimgray;
+    color: gray;
+    text-decoration: underline;
+    font-size: 27px;
 }
