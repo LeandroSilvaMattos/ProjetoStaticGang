@@ -144,7 +144,7 @@ form{
     margin: 40px  0;
 }
 
-form label, form p{
+form label, form legend{
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
@@ -163,7 +163,7 @@ form label, form p{
 
 .barra_pesquisa{
     display: block;
-    font-size: 20pxpx;
+    font-size: 20px;
     margin: 0 0 10px;
     color: #FFF;
 }
@@ -173,4 +173,12 @@ form label, form p{
     font-size: 20px;
     margin-top: 20px;
     margin: 0 0 10px;
+}
+
+.barra_pesquisa:active{
+    border-color: dimgray;
+}
+
+.barra_pesquisa:hover{
+    border-color: dimgray;
 }
