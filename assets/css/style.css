@@ -79,7 +79,7 @@ nav a:hover {
 }
 
 .descricao p {
-    color: #FFF;
+    color: white;
     font-weight: bold;
     font-size: 22px;
 }
@@ -105,6 +105,7 @@ nav a:hover {
     border-style: solid;
     border: #FFF 2px solid;
     border-radius: 10px;
+    cursor: pointer;
 }
 .produtos li:active{
     border-color: dimgrey;
