@@ -130,15 +130,23 @@ footer{
 }
 
 .descricao_footer {
+    margin-top: 15px;
     color: white;
     font-size: 20px;
+}
+
+.logo-instagram img{
+    transition: 1.5s;
+}
+
+.logo-instagram img:hover {
+    height: 40px;
 }
 
 main{
     width: 940px;
     margin: 0  auto;
     color: white;
-    
 }
 
 form{
